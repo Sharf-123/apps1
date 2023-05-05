@@ -1,0 +1,404 @@
+[
+    {
+        "id":"FDW58",
+        "weight":20.75,
+        "fat":"Low Fat",
+        "visibllity":0.007564836,
+        "mrp":107.8622
+
+    },
+    {
+        "id":"FDW14",
+        "weight":8.3,
+        "fat":"reg",
+        "visibllity":0.038427677,
+        "mrp":87.3198
+
+    },
+    {
+        "id":"NCN55",
+        "weight":14.6,
+        "fat":"Low Fat",
+        "visibllity":0.099574908,
+        "mrp":241.7538
+
+    },
+    {
+        "id":"FDQ58",
+        "weight":7.315,
+        "fat":"Low Fat",
+        "visibllity":0.015388393,
+        "mrp":155.034
+
+    },
+    {
+        "id":"FDY38",
+        "weight":6.12,
+        "fat":"Regular",
+        "visibllity":0.118599314,
+        "mrp":234.23
+
+    },
+    {
+        "id":"FDH56",
+        "weight":9.8,
+        "fat":"Regular",
+        "visibllity":0.063817206,
+        "mrp":117.1492
+
+    },
+    {
+        "id":"FDL48",
+        "weight":19.35,
+        "fat":"Regular",
+        "visibllity":0.082601537,
+        "mrp":50.1034
+
+    },
+    {
+        "id":"FDC48",
+        "weight":0.01,
+        "fat":"Low Fat",
+        "visibllity":0.015782495,
+        "mrp":81.0592
+
+    },
+    {
+        "id":"FDN33",
+        "weight":6.305,
+        "fat":"Regular",
+        "visibllity":0.123365446,
+        "mrp":95.7436
+
+    },
+    {
+        "id":"FDA36",
+        "weight":5.985,
+        "fat":"Low Fat",
+        "visibllity":0.005698435,
+        "mrp":186.8924
+
+    },
+    {
+        "id":"FDT44",
+        "weight":16.6,
+        "fat":"Low Fat",
+        "visibllity":0.103569075,
+        "mrp":118.3466
+
+    },
+    {
+        "id":"FDQ56",
+        "weight":6.59,
+        "fat":"Low Fat",
+        "visibllity":0.10581147,
+        "mrp":85.3908
+
+    },
+    {
+        "id":"NCC54",
+        "weight":0.15,
+        "fat":"Low Fat",
+        "visibllity":0.171079215,
+        "mrp":240.4196
+
+    },
+    {
+        "id":"FDU11",
+        "weight":4.785,
+        "fat":"Low Fat",
+        "visibllity":0.092737611,
+        "mrp":122.3098
+
+    },
+    {
+        "id":"DRL59",
+        "weight":16.75,
+        "fat":"Low Fat",
+        "visibllity":0.021206464,
+        "mrp":52.0298
+
+    },
+    {
+        "id":"FDM24",
+        "weight":6.135,
+        "fat":"Regular",
+        "visibllity":0.0794507,
+        "mrp":151.6366
+
+    },
+    {
+        "id":"FDI57",
+        "weight":19.85,
+        "fat":"Low Fat",
+        "visibllity":0.05413521,
+        "mrp":198.7768
+
+    },
+    {
+        "id":"DRC12",
+        "weight":17.85,
+        "fat":"Low Fat",
+        "visibllity":0.037980963,
+        "mrp":192.2188
+
+    },
+    {
+        "id":"NCM42",
+        "weight":0.26,
+        "fat":"Low Fat",
+        "visibllity":0.028184344,
+        "mrp":109.6912
+
+    },
+    {
+        "id":"FDA46",
+        "weight":13.6,
+        "fat":"Low Fat",
+        "visibllity":0.196897637,
+        "mrp":193.7136
+
+    },
+    {
+        "id":"FDA31",
+        "weight":7.1,
+        "fat":"Low Fat",
+        "visibllity":0.109920138,
+        "mrp":175.008
+
+    },
+    {
+        "id":"NCJ31",
+        "weight":19.2,
+        "fat":"Low Fat",
+        "visibllity":0.182619235,
+        "mrp":239.9196
+
+    },
+    {
+        "id":"FDG52",
+        "weight":13.65,
+        "fat":"LF",
+        "visibllity":0.065630844,
+        "mrp":47.7402
+
+    }, 
+    {
+        "id":"NCL19",
+        "weight":0.32,
+        "fat":"Low Fat",
+        "visibllity":0.027447057,
+        "mrp":142.347
+
+    }, 
+    {
+        "id":"FDS10",
+        "weight":19.2,
+        "fat":"Low Fat",
+        "visibllity":0.035178935,
+        "mrp":180.7318
+
+    }, 
+    {
+        "id":"FDX22",
+        "weight":6.785,
+        "fat":"Regular",
+        "visibllity":0.038455125,
+        "mrp":209.4928
+
+    }, 
+    {
+        "id":"NCF19",
+        "weight":13,
+        "fat":"Low Fat",
+        "visibllity":0.035102094,
+        "mrp":47.6034
+
+    },
+    {
+        "id":"NCE06",
+        "weight":5.825,
+        "fat":"Low Fat",
+        "visibllity":0.091485232,
+        "mrp":161.3894
+
+    },
+    {
+        "id":"DRC27",
+        "weight":13.8,
+        "fat":"Low Fat",
+        "visibllity":0.058102469,
+        "mrp":244.6802
+
+    },
+    {
+        "id":"FDE21",
+        "weight":12.8,
+        "fat":"LF",
+        "visibllity":0.022940349,
+        "mrp":116.5492
+
+    },
+    {
+        "id":"NCR42",
+        "weight":0.4,
+        "fat":"Low Fat",
+        "visibllity":0.06737681,
+        "mrp":32.09
+
+    },
+    {
+        "id":"FDX51",
+        "weight":9.5,
+        "fat":"Regular",
+        "visibllity":0.022148582,
+        "mrp":194.9452
+
+    },
+    {
+        "id":"NCR06",
+        "weight":12.5,
+        "fat":"Low Fat",
+        "visibllity":0.006792707,
+        "mrp":42.4112
+
+    },
+    {
+        "id":"FDU31",
+        "weight":0.12,
+        "fat":"Regular",
+        "visibllity":0.024870035,
+        "mrp":217.7508
+
+    },
+    {
+        "id":"FDU59",
+        "weight":5.78,
+        "fat":"Low Fat",
+        "visibllity":0.096931426,
+        "mrp":164.2552
+
+    },
+    {
+        "id":"FDR03",
+        "weight":0.65,
+        "fat":"Regular",
+        "visibllity":0.008693632,
+        "mrp":205.098
+
+    },
+    {
+        "id":"FDS49",
+        "weight":0.2,
+        "fat":"Low Fat",
+        "visibllity":0.078961284,
+        "mrp":80.3644
+
+    },
+    {
+        "id":"FDD48",
+        "weight":10.395,
+        "fat":"Low Fat",
+        "visibllity":0.050479463,
+        "mrp":114.0176
+
+    },
+    {
+        "id":"NCF18",
+        "weight":18.35,
+        "fat":"Low Fat",
+        "visibllity":0.089485918,
+        "mrp":192.1504
+
+    },
+    {
+        "id":"NCD43",
+        "weight":0.16,
+        "fat":"Low Fat",
+        "visibllity":0.01594238,
+        "mrp":103.3964
+
+    },
+    {
+        "id":"NCD54",
+        "weight":21.1,
+        "fat":"Low Fat",
+        "visibllity":0.029127115,
+        "mrp":143.3786
+
+    },
+    {
+        "id":"FDY19",
+        "weight":19.75,
+        "fat":"LF",
+        "visibllity":0.069236421,
+        "mrp":116.6466
+
+    },
+    {
+        "id":"NCY54",
+        "weight":8.43,
+        "fat":"Low Fat",
+        "visibllity":0.178699961,
+        "mrp":173.9422
+
+    },
+    {
+        "id":"NCL19",
+        "weight":15.35,
+        "fat":"Low Fat",
+        "visibllity":0.015740089,
+        "mrp":144.847
+
+    },
+    {
+        "id":"FDP23",
+        "weight":6.71,
+        "fat":"Low Fat",
+        "visibllity":0.059565107,
+        "mrp":217.2166
+
+    },
+    {
+        "id":"FDC26",
+        "weight":10.195,
+        "fat":"Low Fat",
+        "visibllity":0.126277921,
+        "mrp":112.1886
+
+    },
+    {
+        "id":"FDR14",
+        "weight":11.65,
+        "fat":"Low Fat",
+        "visibllity":0.291322397,
+        "mrp":55.8298
+
+    },
+    {
+        "id":"NCS41",
+        "weight":12.85,
+        "fat":"Low Fat",
+        "visibllity":0.053433908,
+        "mrp":183.2608
+
+    },
+    {
+        "id":"FDF41",
+        "weight":12.15,
+        "fat":"Low Fat",
+        "visibllity":0.131155007,
+        "mrp":248.146
+
+    },
+    {
+        "id":"FDU34",
+        "weight":18.25,
+        "fat":"Low Fat",
+        "visibllity":0.075194929,
+        "mrp":124.9046
+
+    }
+    
+    
+]
